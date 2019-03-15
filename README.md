@@ -15,6 +15,3 @@ Experiments with Three Approaches to Recognizing Lexical Entailment, 2014)](http
 - Weeds [(Learning to Distinguish Hypernyms and Co-Hyponyms, 2014)](http://www.aclweb.org/anthology/C14-1212)
 - BIBLESS [(Exploiting image generality for lexical entailment detection, 2015)](https://aclanthology.coli.uni-saarland.de/papers/P15-2020/p15-2020)
 - HypeNet [(Improving Hypernymy Detection with an Integrated Path-based and Distributional Method, 2016)](http://aclweb.org/anthology/P16-1226)
-
-This software package accompanies the ICLR 2019 submission, by Anonymous, et. al., 
-[Context Mover's Distance & Barycenters: Optimal transport of contexts for building representations](https://openreview.net/forum?id=HJG7m2AcF7).
